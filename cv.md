@@ -1,13 +1,13 @@
 # Andrei
 
-![profile_picture](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg "Profile picture")
+![profile_picture](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg =250x250 "Profile picture")
 
 ## Contacts
 
-**Mobile:** +37234567890 \
-**Email:** andrei@planet.ee \
-**GitHub:** antomba \
-**Discord:** antomba
+**Mobile:** _+37234567890_ \
+**Email:** _andrei@planet.ee_ \
+**GitHub:** _antomba_ \
+**Discord:** _antomba_
 
 ## About
 
@@ -51,6 +51,8 @@ Tallinn University of Technology, BSc, IT Systems development, 2016-2021
 
 ## Languages
 
-- **English:** C1
-- **Russian:** C1
-- **Estonian:** C1
+| Language      | Level |
+| ------------- | :---: |
+| **English:**  | _C1_  |
+| **Russian:**  | _C1_  |
+| **Estonian:** | _C1_  |
