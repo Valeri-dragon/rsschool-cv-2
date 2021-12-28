@@ -1,6 +1,8 @@
 # Andrei
 
-<img src="https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg" width="250" height="250" alt="Profile picture">
+> Curriculum Vitae
+
+![profile_picture | =250x250](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg "Profile picture")
 
 ## Contacts
 
@@ -19,12 +21,16 @@ Aim is to develop frontend skills.
 
 ## Knowledge
 
-- HTML, CSS, JS
-- React, VUE, Angular
-- PHP
-- C#, Java
-- GIT
-- VSCode, Rider, Intellij
+- Front-end
+  - HTML, CSS, JS
+  - React, VUE, Angular
+- Back-end
+  - PHP
+  - C#, Java
+- Version control
+  - GIT
+- IDEs
+  - VSCode, Rider, Intellij
 
 ## Code example
 
