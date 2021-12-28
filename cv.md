@@ -4,9 +4,12 @@
 
 ## Contacts
 
-**Mobile:** +37234567890
-**Email:** andrei@planet.ee
-**GitHub:** antomba
+## **Mobile:** +37234567890
+
+## **Email:** andrei@planet.ee
+
+## **GitHub:** antomba
+
 //TODO Discord nickname
 
 ## About
