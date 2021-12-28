@@ -2,7 +2,7 @@
 
 > Curriculum Vitae
 
-![profile_picture | =250x250](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg "Profile picture")
+![profile_picture](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg "Profile picture")
 
 ## Contacts
 
