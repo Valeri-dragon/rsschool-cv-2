@@ -1,13 +1,13 @@
-//TODO FOTO
-
 # Andrei
+
+![profile_picture](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg "Profile picture")
 
 ## Contacts
 
 **Mobile:** +37234567890 \
 **Email:** andrei@planet.ee \
 **GitHub:** antomba \
-**Discord:** antomba \
+**Discord:** antomba
 
 ## About
 
@@ -15,7 +15,7 @@ Aim is to develop frontend skills.
 
 ## Projects
 
-// TODO link to CV
+[CV](https://github.com/antomba/rsschool-cv/blob/gh-pages/cv.md "CV")
 
 ## Knowledge
 
