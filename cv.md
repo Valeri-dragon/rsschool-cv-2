@@ -1,6 +1,6 @@
 # Andrei
 
-![profile_picture](https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg =250x250 "Profile picture")
+<img src="https://images.freeimages.com/images/large-previews/023/geek-avatar-1632962.jpg" width="250" height="250" alt="Profile picture">
 
 ## Contacts
 
