@@ -1,3 +1,23 @@
 body {
-  background-color: powderblue;
+  background: powderblue;
+  margin: 0;
+}
+.bg {
+  min-height: 200px;
+  background: #a1bd57;
+}
+.avatar {
+  width: 250px;
+  min-height: 250px;
+  margin: auto;
+  background: #fff;
+  border: 3px solid #dad6cf;
+  position: relative;
+  top: -100px;
+}
+img {
+  display: block;
+  position: relative;
+  width: 250px;
+  height:250px;
 }
