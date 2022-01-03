@@ -1,12 +1,11 @@
 * {
-  font: tahoma;
+  font-family: Times, "Times New Roman", Georgia, serif;
 }
 html {
   scroll-behavior: smooth;
   margin: 0 auto;
 }
 body {
-  background: powderblue;
   margin: 0;
 }
 code {
@@ -16,8 +15,8 @@ code {
   padding: 2px;
   font-size: 105%;
 }
-nav ul {
-  background: #b41a83;
+header {
+  background: #005A9C;
   padding: 10px 15px;
   position: sticky;
   top: 0;
@@ -35,6 +34,22 @@ code {
   padding: 0;
 }
 #page-wrap {
+  background: powderblue;
   width: 800px;
   margin: 0 auto;
+  /* block-shadow */
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+footer {
+  background: #005A9C;
+  padding: 10px 15px;
+  position: sticky;
+  top: 0;
+}
+footer li {
+  list-style: none;
+  display: inline;
+  margin-right: 15px;
 }
