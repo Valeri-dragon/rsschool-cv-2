@@ -12,8 +12,9 @@ code {
   font-family: Consolas, "courier new";
   color: crimson;
   background-color: #f1f1f1;
-  padding: 2px;
+  padding: 0;
   font-size: 105%;
+  display: block;
 }
 header {
   background: #005A9C;
@@ -30,9 +31,6 @@ nav a {
   color: #fff;
   text-decoration: none;
 }
-code {
-  padding: 0;
-}
 #page-wrap {
   background: powderblue;
   width: 800px;
@@ -44,12 +42,33 @@ code {
 }
 footer {
   background: #005A9C;
-  padding: 10px 15px;
-  position: sticky;
-  top: 0;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.contacts li {
+  list-style: none;
+
 }
 footer li {
-  list-style: none;
-  display: inline;
-  margin-right: 15px;
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 2px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  /* color: #005A9C; */
+}
+.contacts ul {
+  padding-inline-start: 0;
 }
