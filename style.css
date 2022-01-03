@@ -1,3 +1,6 @@
+* {
+  font: tahoma;
+}
 html {
   scroll-behavior: smooth;
   margin: 0 auto;
@@ -13,11 +16,20 @@ code {
   padding: 2px;
   font-size: 105%;
 }
-nav {
+nav ul {
   background: #b41a83;
   padding: 10px 15px;
   position: sticky;
   top: 0;
+}
+nav li {
+  list-style: none;
+  display: inline;
+  margin-right: 15px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
 }
 code {
   padding: 0;
