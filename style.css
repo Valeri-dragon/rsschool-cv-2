@@ -3,7 +3,8 @@ html {
   margin: 0 auto;
 }
 body {
-  background-color: powderblue;
+  background: powderblue;
+  margin: 0;
 }
 code {
   font-family: Consolas, "courier new";
