@@ -4,9 +4,30 @@
 html {
   scroll-behavior: smooth;
   margin: 0 auto;
+  background-color: white;
 }
 body {
   margin: 0;
+  background: #f7f6f2;
+}
+.avatar {
+  width: 128px;
+  min-height: 128px;
+  margin: auto;
+  background: #fff;
+  border: 3px solid #dad6cf;
+  position: relative;  
+  filter: grayscale(100%);
+  display: block;
+  opacity: 0,1;
+
+}
+header {
+  background: #005A9C;
+  padding: 10px 15px;
+  position: sticky;
+  top: 0;
+  z-index: 4;
 }
 code {
   font-family: Consolas, "courier new";
@@ -15,11 +36,16 @@ code {
   font-size: 105%;
   display: block;
 }
-header {
-  background: #005A9C;
-  padding: 10px 15px;
-  position: sticky;
-  top: 0;
+table, td, th {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  margin: 2px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
 }
 nav li {
   list-style: none;
@@ -48,26 +74,13 @@ footer {
   color: #fff;
   text-decoration: none;
 }
-.contacts li {
-  list-style: none;
-
-}
 footer li {
   display: inline-block;
   font-size: 20px;
   padding: 20px;
 }
-table, td, th {
-  border: 1px solid black;
-}
-table {
-  border-collapse: collapse;
-  margin: 2px;
-}
-h1 {
-  text-align: center;
-  text-transform: uppercase;
-  /* color: #005A9C; */
+.contacts li {
+  list-style: none;
 }
 .contacts ul {
   padding-inline-start: 0;
