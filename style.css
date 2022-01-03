@@ -19,3 +19,10 @@ nav {
   position: sticky;
   top: 0;
 }
+code {
+  padding: 0;
+}
+#page-wrap {
+  width: 800px;
+  margin: 0 auto;
+}
